@@ -7,7 +7,7 @@
 ### 单拉助力池脚本使用<br>本库仅包含 农场 种豆 萌宠 工厂 健康 闪购盲盒6个脚本, 拉取之后禁用你系统里现有的
 
 ```
- ql repo https://github.com/chaoyi996-Chris/jd_help.git "jd_|jx_" "backUp|icon" "^jd[^_]|USER|sendNotify|jdCookie|sign_graphics_validate|JDJR|JDSign|ql"
+ql repo https://github.com/chaoyi996-Chris/jd_help.git "jd_|jx_" "backUp|icon" "^jd[^_]|USER|sendNotify|jdCookie|sign_graphics_validate|JDJR|JDSign|ql|function"
 ```  
   
     
