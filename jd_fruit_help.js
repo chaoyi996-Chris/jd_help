@@ -14,7 +14,7 @@ cron "20 4,16 * * *" script-path=jd_fruit_help.js,tag=东东农场内部互助
 东东农场内部互助 = type=cron,cronexp="20 4,16 * * *",wake-system=1,timeout=3600,script-path=jd_fruit_help.js
 
 =========================小火箭===========================
-东东农场内部互助 = type=cron,script-path=jd_fruit_help.js, cronexpr="20 4,16 * * *", timeout=3600, enable=true
+东东农场内部互助 = type=cron,script-path=jd_fruit_help.js, cronexpr="20 4,10,16 * * *", timeout=3600, enable=true
 
 */
 const $ = new Env('东东农场助力池版');
